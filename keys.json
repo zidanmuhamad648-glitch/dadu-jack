@@ -1,0 +1,14 @@
+{
+  "JACK-991A-XYZ": {
+    "status": "available",
+    "used_by": ""
+  },
+  "JACK-882B-OPQ": {
+    "status": "used",
+    "used_by": "081234567890"
+  },
+  "JACK-773C-KLM": {
+    "status": "available",
+    "used_by": ""
+  }
+}
